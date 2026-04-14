@@ -9,7 +9,7 @@ This system was designed to support multiple clinic roles, including:
 - Patient
 - Doctor
 - Receptionist
-- Pharmacist :contentReference[oaicite:6]{index=6}
+- Pharmacist :contentReference
 
 The system consists of several modules:
 
@@ -17,13 +17,13 @@ The system consists of several modules:
 - Doctor Management
 - Consultation Management
 - Medical Treatment Management
-- Pharmacy Management :contentReference[oaicite:7]{index=7}
+- Pharmacy Management :contentReference
 
 ## My Contribution
 
 My assigned module was:
 
-- **Pharmacy Management Module** :contentReference[oaicite:8]{index=8}
+- **Pharmacy Management Module** :contentReference
 
 In this module, I developed functionality for:
 
@@ -33,7 +33,7 @@ In this module, I developed functionality for:
 - Updating medicine price
 - Listing all medicines
 - Sorting medicines
-- Low stock reporting :contentReference[oaicite:9]{index=9}
+- Low stock reporting :contentReference
 
 ## Data Structures Used
 
@@ -43,7 +43,7 @@ In my module, I used:
 
 - `SortedLinkedList`
 - `SortedListInterface`
-- Custom comparer logic for medicine sorting :contentReference[oaicite:11]{index=11}
+- Custom comparer logic for medicine sorting :contentReference
 
 ## Pharmacy Management Features
 
@@ -55,7 +55,7 @@ The Pharmacy Management module supports:
 - Price updates
 - Sorted medicine listing
 - Low stock detection
-- Basic dispensing-related reporting :contentReference[oaicite:12]{index=12}
+- Basic dispensing-related reporting :contentReference
 
 ## Technologies Used
 
@@ -93,7 +93,7 @@ The Pharmacy Management module supports:
 ### Pharmacy Management
 - Manage medicine inventory
 - Update stock and price
-- Search and reporting features :contentReference[oaicite:13]{index=13}
+- Search and reporting features :contentReference
 
 ## Learning Outcomes
 
@@ -117,4 +117,4 @@ This project was developed as part of a university coursework assignment and is 
 - Gan Jun Wei
 - Sebastian Tan Huang Zhi
 - Soo Zu Zheng
-- Teo Geok Woon :contentReference[oaicite:14]{index=14}
+- Teo Geok Woon :contentReference
