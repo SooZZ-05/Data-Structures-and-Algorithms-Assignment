@@ -37,7 +37,7 @@ In this module, I developed functionality for:
 
 ## Data Structures Used
 
-This assignment focused on implementing and applying custom ADTs and data structures. The team report includes a **SortedList ADT** and its implementation using **SortedSkipList**. :contentReference[oaicite:10]{index=10}
+This assignment focused on implementing and applying custom ADTs and data structures. The team report includes a **SortedList ADT** and its implementation using **SortedSkipList**.
 
 In my module, I used:
 
@@ -55,7 +55,7 @@ The Pharmacy Management module supports:
 - Price updates
 - Sorted medicine listing
 - Low stock detection
-- Basic dispensing-related reporting :contentReference
+- Basic dispensing-related reporting
 
 ## Technologies Used
 
